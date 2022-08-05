@@ -1,0 +1,1 @@
+npm run build && cp -r dist/* ../backend/static/ && mv ../backend/static/index.html ../backend/templates
