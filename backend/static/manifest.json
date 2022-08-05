@@ -8,14 +8,13 @@
     "src": "src/assets/vite.svg"
   },
   "index.html": {
-    "file": "assets/index.90eca353.js",
+    "file": "assets/index.d832c7e3.js",
     "src": "index.html",
     "isEntry": true,
     "css": [
       "assets/index.3fce1f81.css"
     ],
     "assets": [
-      "assets/react.35ef61ed.svg",
       "assets/vite.4a748afd.svg"
     ]
   },
